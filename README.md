@@ -23,9 +23,15 @@ Player can press wasd or arrow buttons to move the roller ball, player can also 
 
 ## Exhibition
 
-![Solar System](https://github.com/Yunxiang-Li/Unity3D_Simple-Solar-System-Simulation/blob/master/Screeshots%20and%20Gifs/Solar%20System%20Exhibition.gif)
+![Level One Fail](https://github.com/Yunxiang-Li/Unity3D_Roller-Ball-Game/blob/master/Screenshots%20and%20GIFs/Level1%20fail.gif)
 
-![Solar System](https://github.com/Yunxiang-Li/Unity_Simple-Solar-System-Simulation/blob/master/Screeshots%20and%20Gifs/syloar%20system.PNG)
+![Level One Win](https://github.com/Yunxiang-Li/Unity3D_Roller-Ball-Game/blob/master/Screenshots%20and%20GIFs/Level1%20succed.gif)
+
+![Level Two Fail](https://github.com/Yunxiang-Li/Unity3D_Roller-Ball-Game/blob/master/Screenshots%20and%20GIFs/Level2%20fail.gif)
+
+![Level One png](https://github.com/Yunxiang-Li/Unity3D_Roller-Ball-Game/blob/master/Screenshots%20and%20GIFs/Level1.PNG)
+
+![Level Two png](https://github.com/Yunxiang-Li/Unity3D_Roller-Ball-Game/blob/master/Screenshots%20and%20GIFs/Level2.PNG)
 
 ## Install
 
