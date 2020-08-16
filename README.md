@@ -82,4 +82,4 @@ Under **Assets** folder, there are altogether **8** subfolders:
 
 ## License
 
-[MIT license](https://github.com/Yunxiang-Li/CS61B/blob/master/LICENSE)
+[MIT license](https://github.com/Yunxiang-Li/Unity3D_Roller-Ball-Game/blob/master/LICENSE)
