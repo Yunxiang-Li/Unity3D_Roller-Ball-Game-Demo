@@ -23,15 +23,15 @@ Player can press wasd or arrow buttons to move the roller ball, player can also 
 
 ## Exhibition
 
-![Level One Fail](https://github.com/Yunxiang-Li/Unity3D_Roller-Ball-Game/blob/master/Screenshots%20and%20GIFs/Level1%20fail.gif)
+<div align="center"> <img src="https://github.com/Yunxiang-Li/Unity3D_Roller-Ball-Game/blob/master/Screenshots%20and%20GIFs/Level1%20fail.gif"/> </div>
 
-![Level One Win](https://github.com/Yunxiang-Li/Unity3D_Roller-Ball-Game/blob/master/Screenshots%20and%20GIFs/Level1%20succed.gif)
+<div align="center"> <img src="https://github.com/Yunxiang-Li/Unity3D_Roller-Ball-Game/blob/master/Screenshots%20and%20GIFs/Level1%20succed.gif"/> </div>
 
-![Level Two Fail](https://github.com/Yunxiang-Li/Unity3D_Roller-Ball-Game/blob/master/Screenshots%20and%20GIFs/Level2%20fail.gif)
+<div align="center"> <img src="https://github.com/Yunxiang-Li/Unity3D_Roller-Ball-Game/blob/master/Screenshots%20and%20GIFs/Level2%20fail.gif"/> </div>
 
-![Level One png](https://github.com/Yunxiang-Li/Unity3D_Roller-Ball-Game/blob/master/Screenshots%20and%20GIFs/Level1.PNG)
+<div align="center"> <img src="https://github.com/Yunxiang-Li/Unity3D_Roller-Ball-Game/blob/master/Screenshots%20and%20GIFs/Level1.PNG"/> </div>
 
-![Level Two png](https://github.com/Yunxiang-Li/Unity3D_Roller-Ball-Game/blob/master/Screenshots%20and%20GIFs/Level2.PNG)
+<div align="center"> <img src="https://github.com/Yunxiang-Li/Unity3D_Roller-Ball-Game/blob/master/Screenshots%20and%20GIFs/Level2.PNG"/> </div>
 
 ## Install
 
