@@ -42,7 +42,7 @@ I use Unity2018.2.19 and JetBrain's Rider IDE for this project under Windows 10 
 
 ## Usage
 
-1. Download this repo, open(or zip and open) the **Unity3D_Roller-Ball-Game** folder.
+1. Download this repo, open(or unzip and open) the **Unity3D_Roller-Ball-Game** folder.
 
 2. Open the **Unity Hub**, from the Home Screen, click **Projects** to view the **Projects** tab.
 
